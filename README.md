@@ -16,3 +16,6 @@
 
 # Výstup programu
 ![Vystup programu](https://i.gifer.com/Wlgo.gif)
+
+# Vyčítanie programu cez ESPTool
+![ESPTool](https://i.nahraj.to/f/2fCA.PNG)
