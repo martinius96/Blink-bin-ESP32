@@ -5,6 +5,7 @@
 * Pri nahrávaní - pripojení ESPToolu - držať EN, BOOT tlačidlo, pustiť EN.
 * Počas nahrávania už je možné BOOT tlačidlo pustiť
 * Po nahratí programu stlačiť EN pre reset a spustenie programu
+* Výstupom programu je rozsvietenie a zhasnutie diódy v sekundových intervaloch
 * LED pripojiť na D23 (GPIO23)
 
 # Vyčítanie programu
