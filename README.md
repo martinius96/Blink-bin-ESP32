@@ -1,6 +1,6 @@
 # Blink pre ESP32
 # Nahratie programu
-* Spustiť nahratie.bat súbor
+* Spustiť nahratie_programu.bat súbor
 * V .bat súbore zmeniť COM port
 * Pri nahrávaní - pripojení ESPToolu - držať EN, BOOT tlačidlo, pustiť EN.
 * Počas nahrávania už je možné BOOT tlačidlo pustiť
@@ -9,14 +9,11 @@
 * LED pripojiť na D23 (GPIO23)
 
 # Vyčítanie programu
-* Spustiť vycitanie.bat súbor
+* Spustiť vycitanie_programu.bat súbor
 * V bat. súbore zmeniť COM port
 * Pri pripájaní ESPToolu stlačiť a držať EN a BOOT tlačidlo súčasne
 * Vyčítavanie sketchu začne automaticky
 * Výstup do flash_dump.bin
-
-# Výstup programu
-![GIF](https://i.gifer.com/Wlgo.gif)
 
 # Nahrávanie programu cez ESPTool
 ![ESPTool nahravanie](https://i.nahraj.to/f/2fCB.PNG)
