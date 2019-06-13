@@ -16,7 +16,7 @@
 * Výstup do flash_dump.bin
 
 # Výstup programu
-![Vystup programu](https://i.gifer.com/Wlgo.gif)
+<img src="https://i.gifer.com/Wlgo.gif">
 
 # Nahrávanie programu cez ESPTool
 ![ESPTool nahravanie](https://i.nahraj.to/f/2fCB.PNG)
